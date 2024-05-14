@@ -36,6 +36,11 @@ public class StudyCase {
         System.out.println("_________________________");
 
         System.out.println("Total Harga         : Rp." + total);
+
+        System.out.println();
+        System.out.println();
+
+        
     }
 
     
